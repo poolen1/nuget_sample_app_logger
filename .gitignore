@@ -1,0 +1,25 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AppLogger/.vs/AppLogger/FileContentIndex/9ef3863a-6dba-4810-afad-3faf50a10989.vsidx
+/AppLogger/.vs/AppLogger/FileContentIndex/433bdf3d-4a98-422a-8a4d-fdb4c14d87fd.vsidx
+/AppLogger/.vs/AppLogger/FileContentIndex/a85ad0e0-7e9b-4fa4-a1c4-67899561920d.vsidx
+/AppLogger/bin/Debug/net7.0/AppLogger.pdb
+/AppLogger/bin/Debug/net7.0/AppLogger.dll
+/AppLogger/bin/Debug/applogger-sample-0.1.0.0.nupkg
+/AppLogger/obj/Debug/net7.0/ref/AppLogger.dll
+/AppLogger/obj/Debug/net7.0/refint/AppLogger.dll
+/AppLogger/.vs/AppLogger/v17/.suo
+/AppLogger/obj/Debug/net7.0/AppLogger.pdb
+/AppLogger/obj/Debug/net7.0/AppLogger.GeneratedMSBuildEditorConfig.editorconfig
+/AppLogger/obj/Debug/net7.0/AppLogger.dll
+/AppLogger/obj/Debug/net7.0/AppLogger.csproj.FileListAbsolute.txt
+/AppLogger/obj/Debug/net7.0/AppLogger.csproj.CoreCompileInputs.cache
+/AppLogger/obj/Debug/net7.0/AppLogger.assets.cache
+/AppLogger/obj/Debug/applogger-sample-0.1.0.0.nuspec
+/AppLogger/obj/project.nuget.cache
+/AppLogger/obj/project.assets.json
+/AppLogger/obj/AppLogger.csproj.nuget.g.targets
+/AppLogger/obj/AppLogger.csproj.nuget.g.props
+/AppLogger/obj/AppLogger.csproj.nuget.dgspec.json
